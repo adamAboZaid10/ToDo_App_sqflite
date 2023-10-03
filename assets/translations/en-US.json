@@ -1,0 +1,25 @@
+{
+  "settings" : "settings",
+  "Arabic" : "Arabic",
+  "English" : "English",
+  "Change your language": "Change your language",
+  "Add your Tasks" : "Add your Tasks",
+  "please add your title": "please add your title",
+  "title": "title",
+  "add your title": "add your title",
+  "please add your time": "please add your time",
+  "time": "time",
+  "add your time": "add your time",
+  "please add your date": "please add your date",
+  "date": "date",
+  "add your date": "add your date",
+  "please add your description": "please add your description",
+  "description": "description",
+  "add your description": "add your description",
+  "add tasks": "add tasks",
+  "My Tasks" : "My Tasks",
+  "there is not tasks here": "there is not tasks here",
+  "Update your Tasks" : "Update your Tasks",
+  "Update tasks": "Update tasks"
+
+}
